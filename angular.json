@@ -28,7 +28,7 @@
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
-            "scripts": [ {"build:prod": "ng build --configuration production --base-href /ultima/"}]
+            "scripts": []
           },
           "configurations": {
             "production": {
